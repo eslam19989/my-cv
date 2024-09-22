@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>سيرة Eslam Elsayed الذاتية</title>
+    <title>Eslam Elsayed's CV</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,38 +23,37 @@
     </style>
 </head>
 <body>
-    <h1>السيرة الذاتية: Eslam Elsayed</h1>
+    <h1>Resume: Eslam Elsayed</h1>
     
     <div class="contact-info">
-        <p><strong>البريد الإلكتروني:</strong> dr.eslam.elsayed.officiall@gmail.com</p>
-        <p><strong>الهاتف:</strong> 01556483660</p>
-        <p><strong>العنوان:</strong> بدر سيتي، القاهرة، مصر</p>
-        <p><strong>تاريخ الميلاد:</strong> 15/11/1998</p>
-        <p><strong>الجنسية:</strong> مصري</p>
+        <p><strong>Email:</strong> dr.eslam.elsayed.officiall@gmail.com</p>
+        <p><strong>Phone:</strong> 01556483660</p>
+        <p><strong>Address:</strong> Badr City, Cairo, Egypt</p>
+        <p><strong>Date of Birth:</strong> 15/11/1998</p>
+        <p><strong>Nationality:</strong> Egyptian</p>
     </div>
 
     <div class="section">
-        <h2>الملف الشخصي</h2>
-        <p>أنا محترف ديناميكي ونتائجي ذو خلفية متنوعة في الصيدلة والتسويق الرقمي. لدي خبرة تزيد عن عام كصيدلي داخلي وخبرة واسعة في شراء الوسائط، إنشاء المحتوى، SEO، وتحليل البيانات.</p>
+        <h2>Profile</h2>
+        <p>I am a dynamic and results-driven professional with a diverse background in pharmacy and digital marketing...</p>
     </div>
 
     <div class="section">
-        <h2>الخبرات المهنية</h2>
+        <h2>Professional Experience</h2>
         <ul>
-            <li><strong>مدير وسائل التواصل الاجتماعي ومنشئ محتوى في شركة Smark</strong> (2019 – 2022)</li>
-            <li><strong>متخصص تسويق رقمي في elryada news, webteb, Alhareef, Akhbarna وAltibbi</strong> (2019 – حتى الآن)</li>
-            <li><strong>صيدلي في صيدليات مختلفة</strong> (2021 – 2024)</li>
-            <!-- أضف المزيد حسب الحاجة -->
+            <li><strong>Social Media Manager & Content Creator at Smark Company</strong> (2019 – 2022)</li>
+            <li><strong>Digital Marketing Specialist at elryada news, webteb, Alhareef, Akhbarna, Altibbi</strong> (2019 – Present)</li>
+            <li><strong>Pharmacist at various pharmacies</strong> (2021 – 2024)</li>
+            <!-- Add more as needed -->
         </ul>
     </div>
 
     <div class="section">
-        <h2>التعليم</h2>
-        <p>ماجستير إدارة الأعمال - مدرسة وارتون، جامعة بنسلفانيا (2023 – حتى الآن)</p>
-        <p>بكالوريوس صيدلة وصناعة الأدوية - جامعة بدر في القاهرة (2017 – 2022)</p>
+        <h2>Education</h2>
+        <p>MBA - Wharton School, University of Pennsylvania (2023 – Present)</p>
+        <p>Bachelor of Pharmacy - Badr University, Cairo (2017 – 2022)</p>
     </div>
 
-    <!-- يمكنك إضافة المزيد من الأقسام مثل الشهادات، المهارات، اللغات، إلخ -->
-
+    <!-- Add more sections like Certificates, Skills, Languages, etc. -->
 </body>
 </html>
